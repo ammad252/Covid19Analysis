@@ -26,3 +26,5 @@ Pakistan’s data (confirmed, deaths, recovered).
 Pakistan vs India comparison (deaths & recoveries).
 Top 10 countries with the highest deaths.
 Top 10 countries with the highest recoveries.
+
+
