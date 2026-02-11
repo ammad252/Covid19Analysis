@@ -39,6 +39,13 @@ Top 10 countries with the highest recoveries.
 <br>
 
 <img src="img1.png" width="500" height="1000"/>
-
+<br>
+<img src="img2.png" width="500" height="1000"/>
+<br>
+<img src="img3.png" width="500" height="1000"/>
+<br>
+<img src="img4.png" width="500" height="1000"/>
+<br>
+<img src="img5.png" width="500" height="1000"/>
 
 
