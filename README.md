@@ -38,7 +38,7 @@ Top 10 countries with the highest deaths.
 Top 10 countries with the highest recoveries.
 <br>
 
-<img src="img1.png" width="200" height="400"/>
+<img src="img1.png" width="500" height="1000"/>
 
 
 
